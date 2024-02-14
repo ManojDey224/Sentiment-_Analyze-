@@ -29,7 +29,7 @@ reports: Generated reports and visualizations summarizing the findings.
 README.md: This file (you're creating it now!).
 Getting Started:
 
-Clone this repository: git clone https://github.com/ManojDey224/twitter-reddit-sentiment-analysis.git
+Clone this repository: git clone https://github.com/ManojDey224/Sentiment-_Analyze-.git
 Install required libraries: pip install -r requirements.txt
 Set up API keys (if needed): Refer to the documentation of Tweepy/PRAW for instructions.
 Run analysis scripts: Follow the instructions in the scripts or notebooks.
